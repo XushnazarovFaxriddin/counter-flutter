@@ -1,4 +1,10 @@
-# myapp
+# My First Flutter App
+
+with animated counter app
+
+![image](images/image.png)
+
+
 
 A new Flutter project.
 
